@@ -2,7 +2,8 @@
 #
 # wget https://github.com/beautyonly/QQ-docker/blob/master/install.sh -O- | /usr/bin/time -v bash
 #
-# 设置用户名 && 与登录密码
+# git github.com帐号密码
+#设置用户名 && 与登录密码
 # 登录用户
 user_name="beautyonly"
 # gmail填写此处
