@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# wget http://t.cn/RWiJZda -O- | /usr/bin/time -v bash
+# wget https://github.com/beautyonly/QQ-docker/blob/master/install.sh -O- | /usr/bin/time -v bash
 #
 # 设置用户名 && 与登录密码
 # 登录用户
