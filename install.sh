@@ -29,7 +29,7 @@ APT::Get::Install-Suggests "false";
 EOF
 }
 
-# Common Tools
+# Common Tools 常用工具
 function install_common() {
 	sudo apt-get install -y \
 		apt-transport-https \
